@@ -1,0 +1,69 @@
+/*  */
+a {
+  text-decoration: none;
+}
+
+#root,
+:root,
+:root #root {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto 0;
+  /* aside width var */
+  --aside-width: 3%;
+  --aside-min-width: 55px;
+  /* page width var */
+  --main-width: calc(100% - var(--aside-width));
+  --theme-color: #ff6699;
+  --animation-milli: 600;
+  --animation-delay: calc(var(--animation-milli) * 0.001s);
+  /* 对背景色和平移操作应用过渡 */
+  transition: background var(--animation-delay), color var(--animation-delay);
+  --accent-hover: color-mix(in oklab,var(--text-color),#fff 20%);
+  --accent-active: color-mix(in oklab,var(--theme-color),#fff 20%);
+  --accent-hover-overlay: color-mix(in oklab, var(--accent-hover), transparent 92%);
+  --accent-hover-active: color-mix(in oklab, var(--accent-hover), transparent 92%);
+  --accent-ripple: color-mix(in oklab,var(--accent-pressed),transparent 85%);
+  --accent-pressed: color-mix(in oklab,var(--theme-color),#000 10%);
+}
+
+#root {
+  background-color: var(--main-bg);
+}
+
+.bg__color {
+  background-color: var(--main-bg);
+}
+
+/* 不允许复制 */
+.nocopy {
+  -ms-user-select: none;
+  -moz-user-select: none;
+  -ms-touch-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* circle */
+.circle {
+  border-radius: 50%;
+}
+
+.main__color {
+  color: var(--main-bg);
+}
+
+.theme__color {
+  color: var(--theme-color);
+}
+
+.text__color {
+  color: var(--text-color);
+  fill: var(--text-color);
+}
+
+.icon__color {
+  fill: var(--text-color);
+}
+

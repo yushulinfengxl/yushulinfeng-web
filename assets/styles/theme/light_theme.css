@@ -1,0 +1,9 @@
+/* default theme */
+:root #root[data-theme="light"],
+:root #root {
+  --text-color: #555;
+  --main-bg: #fff;
+  --text-bold_color: #333;
+  --main-color: #fff;
+  --line-color: rgb(238 238 238);
+}

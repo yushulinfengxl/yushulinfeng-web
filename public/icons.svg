@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol viewBox="0 0 24 24" id="home">
+      <path fill="currentColor"
+        d="m21.743 12.331l-9-10c-.379-.422-1.107-.422-1.486 0l-9 10a1 1 0 0 0-.17 1.076c.16.361.518.593.913.593h2v7a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-4h4v4a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-7h2a.998.998 0 0 0 .743-1.669"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="info">
+      <path fill="currentColor"
+        d="M12 17q.425 0 .713-.288T13 16v-4q0-.425-.288-.712T12 11t-.712.288T11 12v4q0 .425.288.713T12 17m0-8q.425 0 .713-.288T13 8t-.288-.712T12 7t-.712.288T11 8t.288.713T12 9m0 13q-2.075 0-3.9-.788t-3.175-2.137T2.788 15.9T2 12t.788-3.9t2.137-3.175T8.1 2.788T12 2t3.9.788t3.175 2.137T21.213 8.1T22 12t-.788 3.9t-2.137 3.175t-3.175 2.138T12 22"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="left">
+      <path fill="currentColor"
+        d="m4.431 12.822l13 9A1 1 0 0 0 19 21V3a1 1 0 0 0-1.569-.823l-13 9a1.003 1.003 0 0 0 0 1.645"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="left-fill">
+      <g fill="none" fill-rule="evenodd">
+        <path
+          d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035q-.016-.005-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093q.019.005.029-.008l.004-.014l-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"></path>
+        <path fill="currentColor"
+          d="M7.94 13.06a1.5 1.5 0 0 1 0-2.12l5.656-5.658a1.5 1.5 0 1 1 2.121 2.122L11.122 12l4.596 4.596a1.5 1.5 0 1 1-2.12 2.122l-5.66-5.658Z"></path>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="right">
+      <path fill="currentColor"
+        d="M5.536 21.886a1 1 0 0 0 1.033-.064l13-9a1 1 0 0 0 0-1.644l-13-9A1 1 0 0 0 5 3v18a1 1 0 0 0 .536.886"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="right-fill">
+      <g fill="none" fill-rule="evenodd">
+        <path
+          d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035q-.016-.005-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093q.019.005.029-.008l.004-.014l-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"></path>
+        <path fill="currentColor"
+          d="M16.06 10.94a1.5 1.5 0 0 1 0 2.12l-5.656 5.658a1.5 1.5 0 1 1-2.121-2.122L12.879 12L8.283 7.404a1.5 1.5 0 0 1 2.12-2.122l5.658 5.657Z"></path>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 512 512" id="search">
+      <path fill="currentColor"
+        d="M456.69 421.39L362.6 327.3a173.8 173.8 0 0 0 34.84-104.58C397.44 126.38 319.06 48 222.72 48S48 126.38 48 222.72s78.38 174.72 174.72 174.72A173.8 173.8 0 0 0 327.3 362.6l94.09 94.09a25 25 0 0 0 35.3-35.3M97.92 222.72a124.8 124.8 0 1 1 124.8 124.8a124.95 124.95 0 0 1-124.8-124.8"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="line-md:search-filled">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+        stroke-width="2">
+        <path fill="currentColor" fill-opacity="0" stroke-dasharray="40" stroke-dashoffset="40"
+          d="M10.76 13.24c-2.34 -2.34 -2.34 -6.14 0 -8.49c2.34 -2.34 6.14 -2.34 8.49 0c2.34 2.34 2.34 6.14 0 8.49c-2.34 2.34 -6.14 2.34 -8.49 0Z">
+          <animate fill="freeze" attributeName="fill-opacity" begin="0.7s" dur="0.5s" values="0;1"></animate>
+          <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.5s" values="40;0"></animate>
+        </path>
+        <path stroke-dasharray="12" stroke-dashoffset="12" d="M10.5 13.5l-7.5 7.5">
+          <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.5s" dur="0.2s"
+            values="12;0"></animate>
+        </path>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="line-md:search">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+        stroke-width="2">
+        <path stroke-dasharray="40" stroke-dashoffset="40"
+          d="M10.76 13.24c-2.34 -2.34 -2.34 -6.14 0 -8.49c2.34 -2.34 6.14 -2.34 8.49 0c2.34 2.34 2.34 6.14 0 8.49c-2.34 2.34 -6.14 2.34 -8.49 0Z">
+          <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.5s" values="40;0"></animate>
+        </path>
+        <path stroke-dasharray="12" stroke-dashoffset="12" d="M10.5 13.5l-7.5 7.5">
+          <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.5s" dur="0.2s"
+            values="12;0"></animate>
+        </path>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 16 16" id="lsicon:setting-filled">
+      <path fill="currentColor" fill-rule="evenodd"
+        d="M6.873 1h2.23c.336-.005.665.105.93.312c.267.21.452.505.52.837l.195.935q.127.068.25.14l.945-.31a1.48 1.48 0 0 1 1.181.119c.22.124.405.302.534.52l1.125 1.856a1.41 1.41 0 0 1-.281 1.83H14.5l-.742.633v.258l.733.653a1.41 1.41 0 0 1 .297 1.8l-1.09 1.86v.002a1.46 1.46 0 0 1-1.255.711a1.5 1.5 0 0 1-.461-.07l-.005-.002l-.937-.309q-.125.074-.254.141l-.194.934a1.43 1.43 0 0 1-.52.838A1.47 1.47 0 0 1 9.14 15H6.892a1.47 1.47 0 0 1-.93-.312a1.43 1.43 0 0 1-.52-.837l-.195-.936a6 6 0 0 1-.25-.14l-.945.31a1.48 1.48 0 0 1-1.181-.119a1.44 1.44 0 0 1-.534-.518l-1.126-1.86a1.41 1.41 0 0 1 .259-1.794l.747-.942l-.713-.635a1.41 1.41 0 0 1-.296-1.802l.002-.002l1.127-1.86a1.45 1.45 0 0 1 1.239-.709q.226-.012.446.043l.022.006l.935.329q.123-.072.25-.138l.194-.934a1.43 1.43 0 0 1 .52-.838c.264-.207.594-.317.93-.312M8 6a2 2 0 1 0 0 4a2 2 0 0 0 0-4M5 8a3 3 0 1 1 6 0a3 3 0 0 1-6 0"
+        clip-rule="evenodd"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="settings">
+      <path fill="currentColor"
+        d="m9.25 22l-.4-3.2q-.325-.125-.612-.3t-.563-.375L4.7 19.375l-2.75-4.75l2.575-1.95Q4.5 12.5 4.5 12.338v-.675q0-.163.025-.338L1.95 9.375l2.75-4.75l2.975 1.25q.275-.2.575-.375t.6-.3l.4-3.2h5.5l.4 3.2q.325.125.613.3t.562.375l2.975-1.25l2.75 4.75l-2.575 1.95q.025.175.025.338v.674q0 .163-.05.338l2.575 1.95l-2.75 4.75l-2.95-1.25q-.275.2-.575.375t-.6.3l-.4 3.2zm2.8-6.5q1.45 0 2.475-1.025T15.55 12t-1.025-2.475T12.05 8.5q-1.475 0-2.488 1.025T8.55 12t1.013 2.475T12.05 15.5"></path>
+    </symbol>
+    <symbol viewBox="0 0 32 32" id="star">
+      <path fill="currentColor"
+        d="m18.7 4.627l2.247 4.31a2.27 2.27 0 0 0 1.686 1.189l4.746.65c2.538.35 3.522 3.479 1.645 5.219l-3.25 2.999a2.23 2.23 0 0 0-.683 2.04l.793 4.398c.441 2.45-2.108 4.36-4.345 3.24l-4.536-2.25a2.28 2.28 0 0 0-2.006 0l-4.536 2.25c-2.238 1.11-4.786-.79-4.345-3.24l.793-4.399c.14-.75-.12-1.52-.682-2.04l-3.251-2.998c-1.877-1.73-.893-4.87 1.645-5.22l4.746-.65a2.23 2.23 0 0 0 1.686-1.189l2.248-4.309c1.144-2.17 4.264-2.17 5.398 0"></path>
+    </symbol>
+    <symbol viewBox="0 0 32 32" id="time">
+      <path fill="currentColor"
+        d="M16 30a14 14 0 1 1 14-14a14 14 0 0 1-14 14m0-26a12 12 0 1 0 12 12A12 12 0 0 0 16 4"></path>
+      <path fill="currentColor" d="M20.59 22L15 16.41V7h2v8.58l5 5.01z"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="translate">
+      <path fill="currentColor"
+        d="m11.9 22l4.55-12h2.1l4.55 12H21l-1.075-3.05h-4.85L14 22zM4 19l-1.4-1.4l5.05-5.05q-.875-.875-1.588-2T4.75 8h2.1q.5.975 1 1.7t1.2 1.45q.825-.825 1.713-2.313T12.1 6H1V4h7V2h2v2h7v2h-2.9q-.525 1.8-1.575 3.7t-2.075 2.9l2.4 2.45l-.75 2.05l-3.05-3.125zm11.7-1.8h3.6l-1.8-5.1z"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="upload">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+        stroke-width="2">
+        <path fill="currentColor" fill-opacity="0" stroke-dasharray="20" stroke-dashoffset="20"
+          d="M12 15h2v-6h2.5l-4.5 -4.5M12 15h-2v-6h-2.5l4.5 -4.5">
+          <animate fill="freeze" attributeName="fill-opacity" begin="0.7s" dur="0.5s" values="0;1"></animate>
+          <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.4s" values="20;0"></animate>
+        </path>
+        <path stroke-dasharray="14" stroke-dashoffset="14" d="M6 19h12">
+          <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.5s" dur="0.2s"
+            values="14;0"></animate>
+        </path>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="material-symbols:upload-2-rounded">
+      <path fill="currentColor"
+        d="M5 20h14q.425 0 .713.288T20 21t-.288.713T19 22H5q-.425 0-.712-.288T4 21t.288-.712T5 20m5-2q-.425 0-.712-.288T9 17v-6H7.05q-.625 0-.9-.562t.1-1.063l4.95-6.35q.15-.2.363-.3t.437-.1t.438.1t.362.3l4.95 6.35q.375.5.1 1.063t-.9.562H15v6q0 .425-.288.713T14 18z"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="user">
+      <path fill="currentColor"
+        d="M17 9c0-1.381-.56-2.631-1.464-3.535C14.631 4.56 13.381 4 12 4s-2.631.56-3.536 1.465C7.56 6.369 7 7.619 7 9s.56 2.631 1.464 3.535C9.369 13.44 10.619 14 12 14s2.631-.56 3.536-1.465A4.98 4.98 0 0 0 17 9M6 19c0 1 2.25 2 6 2c3.518 0 6-1 6-2c0-2-2.354-4-6-4c-3.75 0-6 2-6 4"></path>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="bxs:user">
+      <path fill="currentColor"
+        d="M7.5 6.5C7.5 8.981 9.519 11 12 11s4.5-2.019 4.5-4.5S14.481 2 12 2S7.5 4.019 7.5 6.5M20 21h1v-1c0-3.859-3.141-7-7-7h-4c-3.86 0-7 3.141-7 7v1z"></path>
+    </symbol>
+    <symbol viewBox="0 0 48 48" id="icon-park-solid:user">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+        stroke-width="4">
+        <circle cx="24" cy="12" r="8" fill="currentColor"></circle>
+        <path d="M42 44c0-9.941-8.059-18-18-18S6 34.059 6 44"></path>
+      </g>
+    </symbol>
+
+</svg>

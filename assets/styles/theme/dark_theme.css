@@ -1,0 +1,8 @@
+/* dark theme */
+html #root[data-theme="dark"] {
+  --text-color: #fff;
+  --main-bg: #666;
+  --text-bold_color: #fff;
+  --main-color: #666;
+  --line-color: rgb(238 238 238);
+}

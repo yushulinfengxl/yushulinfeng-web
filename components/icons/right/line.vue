@@ -1,0 +1,5 @@
+<template>
+  <i class="icon right-line">
+    <svg xmlns="http://www.w3.org/2000/svg" width="0.46em" height="1em" viewBox="0 0 208 456"><path fill="#333333" d="M9 388q8 4 15 4q11 0 17-6l162-186L41 14Q26-1 11 12Q-4 29 9 42l137 156L9 354q-13 19 0 34"/></svg>
+  </i>
+</template>

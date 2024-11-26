@@ -1,0 +1,6 @@
+/* pink theme */
+html #root[data-theme="pink"] {
+  --text_color: #f69;
+  --box_bg: #fff2f6;
+  background-color: var(--box_bg);
+}
